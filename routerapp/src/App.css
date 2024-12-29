@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.about{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+.aboutTop{
+  width: 80%;
+  height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 20px;
+}
+
+.text{
+  width: 80%;
+  margin: 30px 0;
+  line-height: 25px;
+}
+
+.text h1{
+  text-align: center;
+  margin: 20px 0;
+
+}
+
